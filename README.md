@@ -1,4 +1,4 @@
-# Co Chan
+# CoChan
 
 [![CodeFactor](https://www.codefactor.io/repository/github/fl-wer/cochan/badge)](https://www.codefactor.io/repository/github/fl-wer/cochan)  
 Converts exported comments with https://github.com/egbertbouman/youtube-comment-downloader from YouTube videos into new file with a list of channel links.
