@@ -10,6 +10,7 @@ These files have to have a number, if we had 3 files they would be named like th
 - exp1.txt  
 - exp2.txt  
 - exp3.txt  
+Open CoChan.exe file and it will create new text file called "once upon a time.txt".
 
 # Bear In Mind
 If you miss one of the numbers between it will stop and not process higher numbers.  
